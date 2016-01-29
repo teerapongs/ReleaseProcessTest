@@ -1,3 +1,7 @@
 0.1.0 29 January 2016
 release
  - Edit text file
+
+0.1.1 29 January 2016
+hotfix
+ - Edit text file
